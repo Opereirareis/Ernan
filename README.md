@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 CCO na <a href="https://keepo.io/atthostech" target="_blank">Atthos Tech</a> — comunidade que conecta pessoas a tecnologia.<br>
-  🧠 Dedicado aos estudos em programação, gestão estratégica, inovação e negócios.<br>
+  🧠 Dedicado aos estudos em programação, Gestão de Projetos, negócios e inovação.<br>
   💼 +5 anos de experiência em atendimento estratégico, e-commerce, fintechs e seguros.<br>
 </p>
 
@@ -16,17 +16,14 @@ Bora construir o futuro com tech acessível e colaborativo.
 
 ### 🛠️ Habilidades & Ferramentas
 ![Python](https://img.shields.io/badge/Python-iniciante-blue?logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-brightgreen?logo=microsoft-excel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-design-blueviolet?logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-Projetos-black?logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-Projetos-0052CC?logo=trello&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366?logo=whatsapp&logoColor=white)
 
 ---
 
-### 📌 Projetos em Destaque
-- 🚧 **Atthos Tech** → Comunidade Digital e suporte pro mercado de trabalho  
-  🔗 [Acesse a comunidade](https://keepo.io/atthostech)
+###📎 Veja mais projetos:
+- 🚧 **Atthos Tech** → Comunidade Digital e suporte pro mercado de trabalho [Acesse a comunidade](https://keepo.io/atthostech)
+- 📎[**Meu portfólio**]( Em Breve)
 
 ---
 
