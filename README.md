@@ -14,7 +14,8 @@ Fundador da **Atthos Tech**, uma comunidade que conecta pessoas à tecnologia de
 
 -
 
-### 🔗 Meus Projetos
+### 🔗 Meus Projetos:
+
 
 ### **Atthos Tech**:
 
